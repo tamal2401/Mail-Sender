@@ -1,0 +1,7 @@
+Hi All,
+
+This is a test msg to check if the Mal Sender service is working
+or not. Let's see.
+
+Thanks and Regards,
+Tamal Das

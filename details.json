@@ -1,0 +1,10 @@
+{
+    "credentials" : {
+        "userName" : "username for the account",
+        "password" : "application pwd"
+    },
+    "smtpServer" : {
+        "server" : "smtp.gmail.com",
+        "port" : "587"
+    }
+}
